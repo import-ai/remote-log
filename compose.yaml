@@ -1,0 +1,5 @@
+services:
+  remote-log:
+    build: .
+    ports:
+      - "8080:8080"

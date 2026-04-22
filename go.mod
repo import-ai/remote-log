@@ -1,3 +1,3 @@
 module remote-log
 
-go 1.25.9
+go 1.24
